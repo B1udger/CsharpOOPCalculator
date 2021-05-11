@@ -1,0 +1,10 @@
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\bin\Debug\OOP - SimToWin - Calculator.exe.config
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\bin\Debug\OOP - SimToWin - Calculator.exe
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\bin\Debug\OOP - SimToWin - Calculator.pdb
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP - SimToWin - Calculator.csprojAssemblyReference.cache
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP___SimToWin___Calculator.Form1.resources
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP___SimToWin___Calculator.Properties.Resources.resources
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP - SimToWin - Calculator.csproj.GenerateResource.cache
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP - SimToWin - Calculator.csproj.CoreCompileInputs.cache
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP - SimToWin - Calculator.exe
+D:\PU - STD\PU- STD - 1 year\3-trimester\Object-oriented programming C#\Exams\OOP - SimToWin - Calculator\OOP - SimToWin - Calculator\obj\Debug\OOP - SimToWin - Calculator.pdb
